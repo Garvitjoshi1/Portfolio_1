@@ -1,0 +1,20 @@
+{
+  "events": [
+    {
+      "start_date": {
+        "year": "2023",
+        "month": "6"
+      },
+      "text": {
+        "headline": "Stroke Prediction",
+        "text": "<p>Developed a machine learning model to predict the likelihood of a stroke based on health parameters.</p>"
+      }
+    },
+    {
+      "start_date": {
+        "year": "2023",
+        "month": "9"
+      },
+      "text": {
+        "headline": "Nutritional Analysis",
+      
